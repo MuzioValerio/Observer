@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/25 19:19:15.000.681,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/25 19:42:26.000.951,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/26 22:29:52.000.689,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/26 22:36:44.000.511,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/26 22:42:36.000.876,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/08 12:58:33.000.810,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/08 16:42:01.000.432,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/08 17:08:42.000.785,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/17 08:24:36.000.662,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/17 16:13:27.000.738,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/17 16:14:30.000.863,C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit1.dfm</Transaction>
+    <Transaction>2021/08/17 16:14:30.000.863,C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit1.pas</Transaction>
+    <Transaction>2021/08/17 16:14:35.000.962,C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Project1.dproj</Transaction>
+    <Transaction>2021/08/17 16:15:29.000.849,=D:\Lavori_Nuovi\TestDelphi\Examples Observer\uObserver.pas</Transaction>
+    <Transaction>2021/08/17 16:17:17.000.203,=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit2.pas</Transaction>
+    <Transaction>2021/08/17 16:17:35.000.248,D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit2.pas=D:\Lavori_Nuovi\TestDelphi\Examples Observer\uTickTockTimer.pas</Transaction>
+    <Transaction>2021/08/18 17:54:01.000.061,D:\Lavori_Nuovi\TestDelphi\Examples Observer\Observer.dproj=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Project1.dproj</Transaction>
+    <Transaction>2021/08/18 17:56:57.000.386,D:\Lavori_Nuovi\TestDelphi\Examples Observer\uMain.dfm=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit1.dfm</Transaction>
+    <Transaction>2021/08/18 17:56:57.000.386,D:\Lavori_Nuovi\TestDelphi\Examples Observer\uMain.pas=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit1.pas</Transaction>
+    <Transaction>2021/08/18 18:39:55.444,D:\Lavori_git\Observer\VCLObserver.dproj=D:\Lavori_git\Observer\Observer.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

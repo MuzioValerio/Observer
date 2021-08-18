@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/25 19:19:15.000.681,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/25 19:42:26.000.951,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/26 22:29:52.000.689,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/26 22:36:44.000.511,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/26 22:42:36.000.876,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/08 12:58:33.000.810,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/08 16:42:01.000.432,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/08 17:08:42.000.785,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/17 08:24:36.000.662,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/18 18:02:59.000.081,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/18 18:03:39.000.191,C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\FMXObserver.dproj</Transaction>
+    <Transaction>2021/08/18 18:04:57.000.928,C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Lavori_Nuovi\TestDelphi\Examples Observer\uFMXMain.pas</Transaction>
+    <Transaction>2021/08/18 18:04:57.000.928,C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\Lavori_Nuovi\TestDelphi\Examples Observer\uFMXMain.fmx</Transaction>
+    <Transaction>2021/08/18 18:05:02.000.092,C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\FMXObserver.dproj=D:\Lavori_Nuovi\TestDelphi\Examples Observer\FMXObserver.dproj</Transaction>
+    <Transaction>2021/08/18 18:08:24.000.599,=D:\Lavori_git\Observer\common\uObserver.pas</Transaction>
+    <Transaction>2021/08/18 18:08:46.000.704,=D:\Lavori_git\Observer\common\uTickTockTimer.pas</Transaction>
+    <Transaction>2021/08/18 18:16:10.000.728,D:\Lavori_git\Observer\uFMXMain.pas=</Transaction>
+    <Transaction>2021/08/18 18:30:30.000.907,=D:\Lavori_git\Observer\Unit1.pas</Transaction>
+    <Transaction>2021/08/18 18:30:44.000.316,=D:\Lavori_git\Observer\uFMXMain.pas</Transaction>
+    <Transaction>2021/08/18 18:31:22.000.679,D:\Lavori_git\Observer\uFMXMain.pas=</Transaction>
+    <Transaction>2021/08/18 18:31:42.000.719,=D:\Lavori_git\Observer\Unit1.pas</Transaction>
+    <Transaction>2021/08/18 18:34:19.000.930,D:\Lavori_git\Observer\Unit1.pas=D:\Lavori_git\Observer\uFMXMain.pas</Transaction>
+    <Transaction>2021/08/18 18:34:19.000.930,D:\Lavori_git\Observer\Unit1.fmx=D:\Lavori_git\Observer\uFMXMain.fmx</Transaction>
+  </Transactions>
+</BorlandProject>

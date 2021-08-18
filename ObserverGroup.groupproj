@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{4430E841-C10B-464C-B524-C552F218EFE1}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="VCLObserver.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="FMXObserver.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="VCLObserver">
+        <MSBuild Projects="VCLObserver.dproj"/>
+    </Target>
+    <Target Name="VCLObserver:Clean">
+        <MSBuild Projects="VCLObserver.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="VCLObserver:Make">
+        <MSBuild Projects="VCLObserver.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="FMXObserver">
+        <MSBuild Projects="FMXObserver.dproj"/>
+    </Target>
+    <Target Name="FMXObserver:Clean">
+        <MSBuild Projects="FMXObserver.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FMXObserver:Make">
+        <MSBuild Projects="FMXObserver.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="VCLObserver;FMXObserver"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="VCLObserver:Clean;FMXObserver:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="VCLObserver:Make;FMXObserver:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

@@ -1,0 +1,25 @@
+object FormFMXMain: TFormFMXMain
+  Left = 0
+  Top = 0
+  Caption = 'FMXMain'
+  ClientHeight = 280
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  OnCloseQuery = FormCloseQuery
+  DesignerMasterStyle = 0
+  object EditClock: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    Anchors = [akTop, akRight]
+    TabOrder = 0
+    TabStop = False
+    ReadOnly = True
+    Position.X = 492.000000000000000000
+    Position.Y = 6.000000000000000000
+    Size.Width = 142.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+  end
+end
