@@ -195,6 +195,8 @@
             <Form>FormFMXMain</Form>
             <FormType>fmx</FormType>
         </DCCReference>
+        <DCCReference Include="common\uObservable.pas"/>
+        <DCCReference Include="common\uFactory.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>

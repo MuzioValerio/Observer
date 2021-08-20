@@ -104,6 +104,8 @@
         </DCCReference>
         <DCCReference Include="common\uObserver.pas"/>
         <DCCReference Include="common\uTickTockTimer.pas"/>
+        <DCCReference Include="common\uObservable.pas"/>
+        <DCCReference Include="common\uFactory.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>

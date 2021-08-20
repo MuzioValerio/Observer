@@ -11,15 +11,21 @@
     <Transaction>2021/08/08 17:08:42.000.785,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2021/08/17 08:24:36.000.662,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2021/08/17 16:13:27.000.738,=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/08/17 16:14:30.000.863,C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit1.dfm</Transaction>
-    <Transaction>2021/08/17 16:14:30.000.863,C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit1.pas</Transaction>
-    <Transaction>2021/08/17 16:14:35.000.962,C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Project1.dproj</Transaction>
+    <Transaction>2021/08/17 16:14:30.000.863,D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit1.dfm=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/08/17 16:14:30.000.863,D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit1.pas=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/17 16:14:35.000.962,D:\Lavori_Nuovi\TestDelphi\Examples Observer\Project1.dproj=C:\Users\muzio1\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2021/08/17 16:15:29.000.849,=D:\Lavori_Nuovi\TestDelphi\Examples Observer\uObserver.pas</Transaction>
     <Transaction>2021/08/17 16:17:17.000.203,=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit2.pas</Transaction>
-    <Transaction>2021/08/17 16:17:35.000.248,D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit2.pas=D:\Lavori_Nuovi\TestDelphi\Examples Observer\uTickTockTimer.pas</Transaction>
-    <Transaction>2021/08/18 17:54:01.000.061,D:\Lavori_Nuovi\TestDelphi\Examples Observer\Observer.dproj=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Project1.dproj</Transaction>
-    <Transaction>2021/08/18 17:56:57.000.386,D:\Lavori_Nuovi\TestDelphi\Examples Observer\uMain.dfm=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit1.dfm</Transaction>
-    <Transaction>2021/08/18 17:56:57.000.386,D:\Lavori_Nuovi\TestDelphi\Examples Observer\uMain.pas=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit1.pas</Transaction>
-    <Transaction>2021/08/18 18:39:55.444,D:\Lavori_git\Observer\VCLObserver.dproj=D:\Lavori_git\Observer\Observer.dproj</Transaction>
+    <Transaction>2021/08/17 16:17:35.000.248,D:\Lavori_Nuovi\TestDelphi\Examples Observer\uTickTockTimer.pas=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit2.pas</Transaction>
+    <Transaction>2021/08/18 17:54:01.000.061,D:\Lavori_Nuovi\TestDelphi\Examples Observer\Project1.dproj=D:\Lavori_Nuovi\TestDelphi\Examples Observer\Observer.dproj</Transaction>
+    <Transaction>2021/08/18 17:56:57.000.386,D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit1.dfm=D:\Lavori_Nuovi\TestDelphi\Examples Observer\uMain.dfm</Transaction>
+    <Transaction>2021/08/18 17:56:57.000.386,D:\Lavori_Nuovi\TestDelphi\Examples Observer\Unit1.pas=D:\Lavori_Nuovi\TestDelphi\Examples Observer\uMain.pas</Transaction>
+    <Transaction>2021/08/18 18:39:55.000.444,D:\Lavori_git\Observer\Observer.dproj=D:\Lavori_git\Observer\VCLObserver.dproj</Transaction>
+    <Transaction>2021/08/20 16:50:51.000.601,=D:\Lavori_git\Observer\Unit1.pas</Transaction>
+    <Transaction>2021/08/20 16:51:10.000.835,D:\Lavori_git\Observer\uObservable.pas=D:\Lavori_git\Observer\Unit1.pas</Transaction>
+    <Transaction>2021/08/20 16:51:17.000.304,D:\Lavori_git\Observer\common\uObservable.pas=D:\Lavori_git\Observer\uObservable.pas</Transaction>
+    <Transaction>2021/08/20 16:57:52.000.483,=D:\Lavori_git\Observer\Unit1.pas</Transaction>
+    <Transaction>2021/08/20 16:58:07.000.842,D:\Lavori_git\Observer\Unit1.pas=D:\Lavori_git\Observer\uFactory.pas</Transaction>
+    <Transaction>2021/08/20 16:58:15.000.092,D:\Lavori_git\Observer\uFactory.pas=D:\Lavori_git\Observer\common\uFactory.pas</Transaction>
   </Transactions>
 </BorlandProject>

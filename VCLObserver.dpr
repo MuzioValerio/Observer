@@ -4,7 +4,9 @@ uses
   Vcl.Forms,
   uMain in 'uMain.pas' {FormMain},
   uObserver in 'common\uObserver.pas',
-  uTickTockTimer in 'common\uTickTockTimer.pas';
+  uTickTockTimer in 'common\uTickTockTimer.pas',
+  uObservable in 'common\uObservable.pas',
+  uFactory in 'common\uFactory.pas';
 
 {$R *.res}
 

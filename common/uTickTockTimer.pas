@@ -4,14 +4,12 @@ interface
 
 uses
   System.Classes, System.SysUtils, FMX.Types
-  , uObserver;
+  , uObserver
+  , uObservable;
 
 type
-  IClockTimer = interface(IInterface)
+  IClockTimer = interface(IVMObservable)
   ['{5F05B7B7-9300-4559-9A1D-104CF343108E}']
-    procedure Attach(aObserver: IVMObserver);
-    procedure Detach(aObserver: IVMObserver);
-
     function GetTime: string;
     property Time: string read GetTime;
   end;
@@ -34,8 +32,6 @@ type
 
     property Time: string read GetTime;
   end;
-
-function ClockTimer: IClockTimer;
 
 implementation
 
